@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Private
+// pragma solidity ^0.8.9;
+
 pragma solidity >=0.4.21 <0.6.0;
 
 contract Migrations {
